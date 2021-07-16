@@ -8,9 +8,9 @@
 
 ## 탐색 순서
 
-`BFS`
-
 <img src="https://user-images.githubusercontent.com/28842641/125909250-506fad7f-05c9-42c1-a00f-3eafa1274511.png"/>
+
+`BFS`
 
 > A -> B -> C -> D -> G -> H -> I -> E -> F -> J
 
